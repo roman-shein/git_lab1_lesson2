@@ -1,0 +1,9 @@
+Человечки идентичны
+7 коммитов:
+init
+heat added
+README added
+fix readme
+merge remote-tracking branch 'origin/hat'
+boots
+dots
